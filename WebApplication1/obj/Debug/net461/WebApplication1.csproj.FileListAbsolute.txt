@@ -1,0 +1,646 @@
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\app.config
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\appsettings.Development.json
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\appsettings.json
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Properties\launchSettings.json
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.exe.config
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.deps.json
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.exe
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Buffers.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Memory.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\netstandard.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Console.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Data.Common.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Security.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.exe.config
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.pdb
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\netstandard.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Console.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\AWSSDK.Core.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\bin\Debug\net461\AWSSDK.S3.dll
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.exe
+C:\Users\Admin\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.pdb
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.exe.config
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.deps.json
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.exe
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\WebApplication1.pdb
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\netfx.force.conflicts.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\netstandard.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.AppContext.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Collections.Specialized.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Console.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Data.Common.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Compression.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.Pipes.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Expressions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Parallel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Linq.Queryable.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Http.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.NameResolution.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Ping.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Requests.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Security.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.Sockets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Net.WebSockets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ObjectModel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.Reader.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Resources.Writer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Handles.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Claims.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.Principal.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Security.SecureString.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.Encoding.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Tasks.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Thread.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Threading.Timer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.ValueTuple.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XPath.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\AWSSDK.Core.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\AWSSDK.S3.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Web.Cors.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Http.Formatting.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Web.Http.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Web.Http.Cors.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.IIS.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Logging.EventSource.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Win32.Registry.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Newtonsoft.Json.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Buffers.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Immutable.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.Annotations.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Pipelines.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Memory.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.AccessControl.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Permissions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Principal.Windows.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\netstandard.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.AppContext.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Collections.Specialized.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Console.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Data.Common.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Compression.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.Pipes.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Expressions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Parallel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Linq.Queryable.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Http.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.NameResolution.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Ping.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Requests.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Security.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.Sockets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Net.WebSockets.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ObjectModel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.Reader.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Resources.Writer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Handles.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Claims.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.Principal.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Security.SecureString.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Thread.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Threading.Timer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.ValueTuple.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XPath.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.csprojAssemblyReference.cache
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.exe.config
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.csproj.CoreCompileInputs.cache
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorAssemblyInfo.cache
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorAssemblyInfo.cs
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.AssemblyInfoInputs.cache
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.AssemblyInfo.cs
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.csproj.CopyComplete
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.exe
+D:\AspNet\Api_DaiHoiGioiTre\WebApplication1\WebApplication1\obj\Debug\net461\WebApplication1.pdb
